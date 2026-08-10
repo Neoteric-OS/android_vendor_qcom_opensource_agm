@@ -39,6 +39,7 @@ LOCAL_SRC_FILES  := \
 LOCAL_HEADER_LIBRARIES := \
     libspf-headers \
     libutils_headers \
+    libarpal_headers \
     libacdb_headers \
     libarmemlog_headers
 
